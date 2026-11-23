@@ -1,0 +1,8 @@
+# Мусор операционных систем
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Локальные настройки IDE — на любой глубине
+.idea/
+.vscode/
